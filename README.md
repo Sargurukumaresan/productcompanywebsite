@@ -37,10 +37,24 @@ Publish the website in the given URL.
 ## PROGRAM :
 
 ## OUTPUT:
+### HOME
+![home](./home.png)
 
-### Home Page:
+### PRODUCTS
+![2](./product1.png)
+![3](./product2.png)
 
-![output](./images/homepage.jpg)
+### PEOPLE
+![4](./people1.png)
+![5](./people2.png)
+![6](./people3.png)
+![7](./people4.png)
+
+### COUNTACT US
+![8](./contuct.png)
+### HTML VALIDITOR
+![9](./validitor.png)
+
 
 ## Result:
 
